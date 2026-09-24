@@ -113,8 +113,8 @@
 ## 快速開始
 
 ```bash
-git clone https://github.com/k66inthesky/ClearSpace.git
-cd ClearSpace
+git clone https://github.com/ClearSpaceLab/ios.git
+cd ios
 ```
 
 完整建置步驟請見 [SETUP.md](SETUP.md)。
