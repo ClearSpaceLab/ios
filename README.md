@@ -117,8 +117,6 @@ git clone https://github.com/ClearSpaceLab/ios.git
 cd ios
 ```
 
-完整建置步驟請見 [SETUP.md](SETUP.md)。
-
 需求：Xcode 15+、iOS 16+、實機測試（模擬器無法掃描藍牙與區網）。
 
 ---
@@ -133,7 +131,7 @@ cd ios
 - **回報誤判**：開 Issue 附上掃描截圖（請隱去個人資訊）
 - **翻譯**：英文、日文、韓文
 
-詳見 [CONTRIBUTING.md](CONTRIBUTING.md)。參與前請先閱讀 [社群行為準則](https://github.com/ClearSpaceLab/Code-of-Conduct) 與 [專案治理](https://github.com/ClearSpaceLab/Governance)。
+參與前請先閱讀 [社群行為準則](https://github.com/ClearSpaceLab/Code-of-Conduct) 與 [專案治理](https://github.com/ClearSpaceLab/Governance)。
 
 ---
 
