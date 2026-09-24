@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-iOS%2016%2B-blue)]()
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-v1.0-ff69b4)](CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-v1.0-ff69b4)](https://github.com/ClearSpaceLab/Code-of-Conduct)
 
 **不應該只有偷拍工具。這世界也應該有免費、可信任的公益反偷拍工具。**
 
@@ -133,7 +133,7 @@ cd ios
 - **回報誤判**：開 Issue 附上掃描截圖（請隱去個人資訊）
 - **翻譯**：英文、日文、韓文
 
-詳見 [CONTRIBUTING.md](CONTRIBUTING.md)。參與前請先閱讀 [社群行為準則](CODE_OF_CONDUCT.md) 與 [專案治理](GOVERNANCE.md)。
+詳見 [CONTRIBUTING.md](CONTRIBUTING.md)。參與前請先閱讀 [社群行為準則](https://github.com/ClearSpaceLab/Code-of-Conduct) 與 [專案治理](https://github.com/ClearSpaceLab/Governance)。
 
 ---
 
